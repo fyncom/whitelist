@@ -78,11 +78,6 @@
       "url": "fyncom.com",
       "reason": "the world's greatest financial communications company",
       "subdomain": ["*"]
-    },
-    {
-      "url": "karmacall.com",
-      "reason": "the world's greatest phone spam blocking company",
-      "subdomain": ["*"]
     }
   ],
   "emails": [
@@ -125,6 +120,16 @@
       "domain": "gmail.com",
       "reason": "startup accelerator / ecosystem",
       "addresses": ["berkeleyskydeck"]
+    },
+    {
+      "domain": "fyncom.com",
+      "reason": "the world's greatest financial communications company",
+      "addresses": ["support", "rewards"]
+    },
+    {
+      "url": "karmacall.com",
+      "reason": "the world's greatest phone spam blocking company",
+      "addresses": ["support"]
     }
   ]
 }
