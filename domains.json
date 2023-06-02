@@ -3,7 +3,7 @@
     {
       "url": "usps.com",
       "reason": "the US Post Office delivers traditional mail and other services that should not be subject to a blanket blacklist",
-      "subdomain": "email.informeddelivery"
+      "subdomain": ["email.informeddelivery"]
     },
     {
       "url": "foundersnetwork.com",
@@ -36,17 +36,17 @@
     {
       "url": "amazon.com",
       "reason": "personal favor that my boy, Jeffy B., asked of me :P",
-      "subdomain": "*"
+      "subdomain": ["*"]
     },
     {
       "url": "amazonaws.com",
       "reason": "AWS amazon alerts / services",
-      "subdomain": "*"
+      "subdomain": ["*"]
     },
     {
       "url": "microsoft.com",
       "reason": "",
-      "subdomain": "*"
+      "subdomain": ["*"]
     },
     {
       "url": "waveapps.com",
@@ -55,7 +55,7 @@
     {
       "url": "zendesk.com",
       "reason": "provides support emails from various online platforms",
-      "subdomain": "*"
+      "subdomain": ["*"]
     },
     {
       "url": "101domain.com",
@@ -72,17 +72,17 @@
     {
       "url": "zapier.com",
       "reason": "notifications on whether your zaps fail & other notification that zapier users will want to receive",
-      "subdomain": "mail"
+      "subdomain": ["mail"]
     },
     {
       "url": "fyncom.com",
       "reason": "the world's greatest financial communications company",
-      "subdomain": "*"
+      "subdomain": ["*"]
     },
     {
       "url": "karmacall.com",
       "reason": "the world's greatest phone spam blocking company",
-      "subdomain": "*"
+      "subdomain": ["*"]
     }
   ],
   "emails": [
@@ -94,17 +94,17 @@
     {
       "domain": "clearbit.com",
       "reason": "a great service to help website owners identify visitors to their site",
-      "addresses": "smiles"
+      "addresses": ["smiles"]
     },
     {
       "domain": "da.slickdeals.net",
       "reason": "deal alerts from SlickDeals. Feed the consumerism!",
-      "addresses": "deals"
+      "addresses": ["deals"]
     },
     {
       "domain": "brex.com",
       "reason": "bank notifications",
-      "addresses": "noreply"
+      "addresses": ["noreply"]
     },
     {
       "domain": "twilio.com",
@@ -114,17 +114,17 @@
     {
       "domain": "slack.com",
       "reason": "notifications / support from Slack",
-      "addresses": "notifications"
+      "addresses": ["notifications"]
     },
     {
       "domain": "ycombinator.com",
       "reason": "startup accelerator / ecosystem",
-      "addresses": "no-reply"
+      "addresses": ["no-reply"]
     },
     {
       "domain": "gmail.com",
       "reason": "startup accelerator / ecosystem",
-      "addresses": "berkeleyskydeck"
+      "addresses": ["berkeleyskydeck"]
     }
   ]
 }
