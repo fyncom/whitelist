@@ -82,47 +82,47 @@
   ],
   "emails": [
     {
-      "domain": "calendly.com",
+      "url": "calendly.com",
       "reason": "notifications / support from Calendly for meeting updates",
       "addresses": ["notifications", "support"]
     },
     {
-      "domain": "clearbit.com",
+      "url": "clearbit.com",
       "reason": "a great service to help website owners identify visitors to their site",
       "addresses": ["smiles"]
     },
     {
-      "domain": "da.slickdeals.net",
+      "url": "da.slickdeals.net",
       "reason": "deal alerts from SlickDeals. Feed the consumerism!",
       "addresses": ["deals"]
     },
     {
-      "domain": "brex.com",
+      "url": "brex.com",
       "reason": "bank notifications",
       "addresses": ["noreply"]
     },
     {
-      "domain": "twilio.com",
+      "url": "twilio.com",
       "reason": "notifications / support from Twilio",
       "addresses": ["twilio-notifications", "support"]
     },
     {
-      "domain": "slack.com",
+      "url": "slack.com",
       "reason": "notifications / support from Slack",
       "addresses": ["notifications"]
     },
     {
-      "domain": "ycombinator.com",
+      "url": "ycombinator.com",
       "reason": "startup accelerator / ecosystem",
       "addresses": ["no-reply"]
     },
     {
-      "domain": "gmail.com",
+      "url": "gmail.com",
       "reason": "startup accelerator / ecosystem",
       "addresses": ["berkeleyskydeck"]
     },
     {
-      "domain": "fyncom.com",
+      "url": "fyncom.com",
       "reason": "the world's greatest financial communications company",
       "addresses": ["support", "rewards"]
     },
