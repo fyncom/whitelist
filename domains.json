@@ -73,6 +73,16 @@
       "url": "zapier.com",
       "reason": "notifications on whether your zaps fail & other notification that zapier users will want to receive",
       "subdomain": "mail"
+    },
+    {
+      "url": "fyncom.com",
+      "reason": "the world's greatest financial communications company",
+      "subdomain": "*"
+    },
+    {
+      "url": "karmacall.com",
+      "reason": "the world's greatest phone spam blocking company",
+      "subdomain": "*"
     }
   ],
   "emails": [
