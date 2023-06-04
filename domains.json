@@ -1,15 +1,6 @@
 {
   "domains": [
     {
-      "url": "usps.com",
-      "reason": "the US Post Office delivers traditional mail and other services that should not be subject to a blanket blacklist",
-      "subdomain": ["email.informeddelivery"]
-    },
-    {
-      "url": "foundersnetwork.com",
-      "reason": "Founders Network is sn awesome group of startup founders whose outreach should be allowed to bypass spam filters."
-    },
-    {
       "url": ".edu",
       "reason": "allow academic email address"
     },
@@ -18,20 +9,8 @@
       "reason": "allow government email address"
     },
     {
-      "url": "referrals.digitalocean.com",
-      "reason": "verification codes from DO"
-    },
-    {
-      "url": "zoom.us",
-      "reason": ""
-    },
-    {
-      "url": "google.com",
-      "reason": ""
-    },
-    {
-      "url": "googlemail.com",
-      "reason": "mailer daemon run by google"
+      "url": "101domain.com",
+      "reason": "hosting"
     },
     {
       "url": "amazon.com",
@@ -44,13 +23,55 @@
       "subdomain": ["*"]
     },
     {
+      "url": "foundersnetwork.com",
+      "reason": "Founders Network is sn awesome group of startup founders whose outreach should be allowed to bypass spam filters."
+    },
+    {
+      "url": "github.com",
+      "reason": "code management"
+    },
+    {
+      "url": "gitlab.com",
+      "reason": "code management"
+    },
+    {
+      "url": "google.com",
+      "reason": ""
+    },
+    {
+      "url": "googlemail.com",
+      "reason": "mailer daemon run by google"
+    },
+    {
       "url": "microsoft.com",
       "reason": "",
       "subdomain": ["*"]
     },
     {
+      "url": "namecheap.com",
+      "reason": "hosting"
+    },
+    {
+      "url": "referrals.digitalocean.com",
+      "reason": "verification codes from DO"
+    },
+    {
+      "url": "thesavannahbananas.com",
+      "reason": "hilarious baseball (banana ball) team"
+    },
+    {
+      "url": "usps.com",
+      "reason": "the US Post Office delivers traditional mail and other services that should not be subject to a blanket blacklist",
+      "subdomain": ["email.informeddelivery"]
+    },
+    {
       "url": "waveapps.com",
       "reason": "an AWESOME accounting software for small businesses with free services"
+    },
+    {
+      "url": "zapier.com",
+      "reason": "notifications on whether your zaps fail & other notification that zapier users will want to receive",
+      "subdomain": ["mail"]
     },
     {
       "url": "zendesk.com",
@@ -58,24 +79,16 @@
       "subdomain": ["*"]
     },
     {
-      "url": "101domain.com",
-      "reason": "hosting"
-    },
-    {
-      "url": "namecheap.com",
-      "reason": "hosting"
-    },
-    {
-      "url": "thesavannahbananas.com",
-      "reason": "hilarious baseball (banana ball) team"
-    },
-    {
-      "url": "zapier.com",
-      "reason": "notifications on whether your zaps fail & other notification that zapier users will want to receive",
-      "subdomain": ["mail"]
+      "url": "zoom.us",
+      "reason": ""
     }
   ],
   "emails": [
+    {
+      "url": "brex.com",
+      "reason": "bank notifications",
+      "addresses": ["noreply"]
+    },
     {
       "url": "calendly.com",
       "reason": "notifications / support from Calendly for meeting updates",
@@ -92,24 +105,9 @@
       "addresses": ["deals"]
     },
     {
-      "url": "brex.com",
-      "reason": "bank notifications",
-      "addresses": ["noreply"]
-    },
-    {
-      "url": "twilio.com",
-      "reason": "notifications / support from Twilio",
-      "addresses": ["twilio-notifications", "support"]
-    },
-    {
-      "url": "slack.com",
-      "reason": "notifications / support from Slack",
-      "addresses": ["notifications"]
-    },
-    {
-      "url": "ycombinator.com",
-      "reason": "startup accelerator / ecosystem",
-      "addresses": ["no-reply"]
+      "url": "fyncom.com",
+      "reason": "the world's greatest financial communications company",
+      "addresses": ["support", "rewards"]
     },
     {
       "url": "gmail.com",
@@ -117,14 +115,24 @@
       "addresses": ["berkeleyskydeck"]
     },
     {
-      "url": "fyncom.com",
-      "reason": "the world's greatest financial communications company",
-      "addresses": ["support", "rewards"]
-    },
-    {
       "url": "karmacall.com",
       "reason": "the world's greatest phone spam blocking company",
       "addresses": ["support"]
+    },
+    {
+      "url": "slack.com",
+      "reason": "notifications / support from Slack",
+      "addresses": ["notifications"]
+    },
+    {
+      "url": "twilio.com",
+      "reason": "notifications / support from Twilio",
+      "addresses": ["twilio-notifications", "support"]
+    },
+    {
+      "url": "ycombinator.com",
+      "reason": "startup accelerator / ecosystem",
+      "addresses": ["no-reply"]
     }
   ]
 }
