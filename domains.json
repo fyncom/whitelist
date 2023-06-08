@@ -131,7 +131,7 @@
     {
       "url": "slack.com",
       "reason": "notifications / support from Slack",
-      "addresses": ["notifications"]
+      "addresses": ["notifications", "notification"]
     },
     {
       "url": "twilio.com",
