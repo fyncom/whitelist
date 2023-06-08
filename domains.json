@@ -43,6 +43,10 @@
       "reason": "mailer daemon run by google"
     },
     {
+      "url": "goaheadvc.com",
+      "reason": "Venture Capital firm that backed FynCom with its first check"
+    },
+    {
       "url": "microsoft.com",
       "reason": "",
       "subdomain": ["*"]
