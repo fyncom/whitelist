@@ -69,6 +69,11 @@
       "subdomain": ["email.informeddelivery"]
     },
     {
+      "url": "wix.com",
+      "reason": "Website builder that uses crm.wix.com to deliver chat messages",
+      "subdomain": ["crm"]
+    },
+    {
       "url": "waveapps.com",
       "reason": "an AWESOME accounting software for small businesses with free services"
     },
