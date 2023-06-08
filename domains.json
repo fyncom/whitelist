@@ -60,6 +60,10 @@
       "reason": "verification codes from DO"
     },
     {
+      "url": "stripe.com",
+      "reason": "provides receipts/financial updates"
+    },
+    {
       "url": "thesavannahbananas.com",
       "reason": "hilarious baseball (banana ball) team"
     },
