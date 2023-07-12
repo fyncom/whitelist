@@ -23,6 +23,11 @@
       "subdomain": ["*"]
     },
     {
+      "url": "apple.com",
+      "reason": "runs the App Store",
+      "subdomain": ["*"]
+    },
+    {
       "url": "foundersnetwork.com",
       "reason": "Founders Network is sn awesome group of startup founders whose outreach should be allowed to bypass spam filters."
     },
@@ -108,6 +113,11 @@
       "addresses": ["notifications", "support"]
     },
     {
+      "url": "camelcamelcamel.com",
+      "reason": "price notification service",
+      "addresses": ["noreply"]
+    },
+    {
       "url": "clearbit.com",
       "reason": "a great service to help website owners identify visitors to their site",
       "addresses": ["smiles"]
@@ -120,7 +130,7 @@
     {
       "url": "fyncom.com",
       "reason": "the world's greatest financial communications company",
-      "addresses": ["support", "rewards"]
+      "addresses": ["support", "rewards", "rewards+dev"]
     },
     {
       "url": "gmail.com",
