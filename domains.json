@@ -2,11 +2,13 @@
   "domains": [
     {
       "url": ".edu",
-      "reason": "allow academic email address"
+      "reason": "allow academic email address",
+      "subdomain": ["*"]
     },
     {
       "url": ".gov",
-      "reason": "allow government email address"
+      "reason": "allow government email address",
+      "subdomain": ["*"]
     },
     {
       "url": "101domain.com",
