@@ -1,12 +1,12 @@
 {
   "domains": [
     {
-      "url": ".edu",
+      "url": "edu",
       "reason": "allow academic email address",
       "subdomain": ["*"]
     },
     {
-      "url": ".gov",
+      "url": "gov",
       "reason": "allow government email address",
       "subdomain": ["*"]
     },
