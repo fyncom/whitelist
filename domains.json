@@ -101,6 +101,16 @@
     {
       "url": "zoom.us",
       "reason": ""
+    },
+    {
+      "url": "fiatgrowth.com",
+      "reason": "You'll want to be contacted by this team of been-there done-that executives who are laser focused on driving growth in companies of all sizes",
+      "subdomain": ["*"]
+    },
+    {
+      "url": "fiat.vc",
+      "reason": "venture capital firm",
+      "subdomain": ["*"]
     }
   ],
   "emails": [
