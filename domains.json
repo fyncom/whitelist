@@ -15,6 +15,11 @@
       "reason": "hosting"
     },
     {
+      "url": "f6s.com",
+      "reason": "provides great startup resources",
+      "subdomain": ["*"]
+    },
+    {
       "url": "amazon.com",
       "reason": "personal favor that my boy, Jeffy B., asked of me :P",
       "subdomain": ["*"]
