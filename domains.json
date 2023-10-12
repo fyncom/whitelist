@@ -169,6 +169,11 @@
       "url": "ycombinator.com",
       "reason": "startup accelerator / ecosystem",
       "addresses": ["no-reply"]
+    },
+    {
+      "url": "unicorner.news",
+      "reason": "startup newsletter",
+      "addresses": ["newsletter"]
     }
   ]
 }
