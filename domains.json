@@ -64,6 +64,11 @@
       "reason": "hosting"
     },
     {
+      "url": "pnptc.com",
+      "reason": "Venture Capital firm that brings startups together & increases corporate exposure to new tech",
+      "subdomain": ["*"]
+    },
+    {
       "url": "referrals.digitalocean.com",
       "reason": "verification codes from DO"
     },
