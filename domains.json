@@ -35,6 +35,10 @@
       "subdomain": ["*"]
     },
     {
+      "url": "members.ebay.com",
+      "reason": "messages from eBay members"
+    },
+    {
       "url": "foundersnetwork.com",
       "reason": "Founders Network is sn awesome group of startup founders whose outreach should be allowed to bypass spam filters."
     },
