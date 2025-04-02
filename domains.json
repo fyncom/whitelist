@@ -1,6 +1,10 @@
 {
   "domains": [
     {
+      "url": "a16z.com",
+      "reason": "Venture Capital firm that does amazing things in the startup ecosystem"
+    },
+    {
       "url": "edu",
       "reason": "allow academic email address",
       "subdomain": ["*"]
